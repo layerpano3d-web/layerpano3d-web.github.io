@@ -57,10 +57,10 @@ function selectCompVideo(methodPill, scenePill, n_views, modePill) {
             promptTextBox.text("A boat on lake, trees and rocks near the lake. a house and port in front of a house, anime style.");
             break;
         case 'v1_9':
-            promptTextBox.text("Ancient stone monoliths standing in a grassy field under a cloudy sky.");
+            promptTextBox.text("Cozy livingroom in christmas");
             break;
         case 'v1_10':
-            promptTextBox.text("Cozy livingroom in christmas");
+            promptTextBox.text("Ancient stone monoliths standing in a grassy field under a cloudy sky.");
             break;
         case 'v2_0':
             promptTextBox.text("Magician's cabin in a tranquil forest, with a flagpole bearing a red flag, beside a flowing river.");
